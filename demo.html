@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<!-- uncomment next lines if using the jQuery version -->
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" charset="utf-8"></script>
+	
+<script src="extracontent.jq.js" charset="utf-8"></script> -->
+
+<!-- comment out next lines if using jQuery version -->
+<script src="extracontent.js" charset="utf-8"></script>
+
+<style type="text/css" media="screen">
+/* These styles are just for demonstration */
+.wrapper{width:700px;margin:1em auto;}
+.contentWrapper{border:1px solid blue;padding:0 1em;margin-bottom: 1em;}
+.content{float:left;width:70%;}
+.sidebar{float:right;width:25%;}
+.clear{clear:both;}
+#myExtraContent1,
+#myExtraContent2{border:1px solid red;padding:0 1em;margin-bottom:1em;}
+#myExtraContent1 .secondNotice,
+#myExtraContent2 .secondNotice{display:none;}
+.header #myExtraContent1,
+.footer #myExtraContent2{border:1px solid green;}
+.header #myExtraContent1 .firstNotice,
+.footer #myExtraContent2 .firstNotice{display:none;}
+.header #myExtraContent1 .secondNotice,
+.footer #myExtraContent2 .secondNotice{display:block;}
+.footer {text-align: center;}
+</style>
+
+</head>
+<body>
+
+	<div class="wrapper">
+		<div class="header">
+			<div id="extraContainer1">
+				<!-- extra user content renders here -->
+			</div>
+		</div>
+
+		<div class="contentWrapper">
+			<div class="content">
+				<h1>Main Content</h1>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+				<div id="myExtraContent1">
+					<!-- anything the user adds here will get rendered -->
+					<h3 class="firstNotice">This content was entered in the main content area</h3>
+					<h3 class="secondNotice">And now it's in the Header.</h3>
+
+					<p>Some extra content kind of stuff that you would want to enter into the header but can't because RapidWeaver only has to content entry points -- the main content and the sidebar. Thankfully we created ExtraContent that lets developers make special places for you to access while still just entering your content in either of those two aforementioned places.</p>
+				</div>
+
+			</div>
+			<div class="sidebar">
+				<h3>Sidebar</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+				
+				<div id="myExtraContent2">
+					<!-- anything the user adds here will get rendered -->
+					<h3 class="firstNotice">This started in the sidebar</h3>
+					<h3 class="secondNotice">And now it's in the Footer.</h3>
+
+					<p>This would make a great footer... but how do I get it there?</p>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="footer">
+			<div id="extraContainer2">
+				<!-- extra user content renders here -->
+			</div>
+			<p>&copy; 2010 Lorem Ipsum</p>
+		</div>
+	</div>
+	<script charset="utf-8">
+	// These alerts are just for demonstration
+	alert('Without ExtraContent, the red boxes of user content would remain in the standard content area or sidebar, depending on where they were entered.');
+
+	if (typeof jQuery != 'undefined') {
+		jQuery(document).ready(function($){
+			alert('But with ExtraContent we can move the users content to other places otherwise inaccessible from the RapidWeaver UI.');
+		});
+	}else if (typeof DomReady != 'undefined') {
+		DomReady.ready(function() {
+			alert('But with ExtraContent we can move the users content to other places otherwise inaccessible from the RapidWeaver UI.');
+		});
+	}
+	</script>
+</body>
+</html>
