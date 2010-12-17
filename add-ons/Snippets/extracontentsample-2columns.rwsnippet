@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>ExtraContent Sample - 2 columns</title>
+	<content type="html">&#60;div id=&#34;myExtraContent1&#34;&#62;
+	&#60;div class=&#34;column two&#34;&#62;
+		&#60;div class=&#34;content&#34;&#62;
+			&#60;h2&#62;This is column 1&#60;/h2&#62;&#60;p&#62;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proid.&#60;/p&#62;
+		&#60;/div&#62;&#60;!-- .content --&#62;
+	&#60;/div&#62;&#60;!-- .column .two --&#62;
+	&#60;div class=&#34;column two&#34;&#62;
+		&#60;div class=&#34;content&#34;&#62;
+			&#60;h2&#62;This is another column&#60;/h2&#62;&#60;p&#62;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proid.&#60;/p&#62;
+		&#60;/div&#62;&#60;!-- .content --&#62;
+	&#60;/div&#62;&#60;!-- .column .two --&#62;
+&#60;/div&#62;&#60;!-- #myExtraContent --&#62;</content>
+</snippet>

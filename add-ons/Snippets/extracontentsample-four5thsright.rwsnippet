@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>ExtraContent Sample - four5ths right</title>
+	<content type="html">&#60;div id=&#34;myExtraContent1&#34;&#62;
+	&#60;div class=&#34;column five&#34;&#62;
+		&#60;div class=&#34;content&#34;&#62;
+			&#60;img src=&#34;http://www.seydesign.com/images/content/Contact_Form.png&#34; alt=&#34;contact form icon&#34;/&#62;
+		&#60;/div&#62;&#60;!-- .content --&#62;
+	&#60;/div&#62;&#60;!-- .column .five --&#62;
+	&#60;div class=&#34;column four5ths&#34;&#62;
+		&#60;div class=&#34;content&#34;&#62;
+			&#60;h2&#62;RapidWeaver Contact Form&#60;/h2&#62;&#60;p&#62;It’s simple but effective. This php contact form will serve most peoples need to allow their readers, clients or customers to get a hold of them, with a few criteria. Have them select from drop down menus, enter values in fields, messages in text areas, upload attachements...&#60;/p&#62;
+			&#60;p&#62;The built in form also allows for some text customization before and after the form itself, as well as custom thank you messages (great for adding some redirect scripts).&#60;/p&#62;
+		&#60;/div&#62;&#60;!-- .content --&#62;
+	&#60;/div&#62;&#60;!-- .column .four5ths --&#62;
+&#60;/div&#62;&#60;!-- #myExtraContent --&#62;</content>
+</snippet>

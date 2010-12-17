@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>ExtraContent Sample - 3 columns</title>
+	<content type="html">&#60;div id=&#34;myExtraContent1&#34;&#62;
+	&#60;div class=&#34;column three&#34;&#62;
+		&#60;div class=&#34;content&#34;&#62;
+			&#60;h2&#62;Column Snippets&#60;/h2&#62;&#60;p&#62;Looking for more places to put things has been one thing on many RapidWeaver users wish list, and so too has columns... lots and lots of columns.&#60;/p&#62;
+		&#60;/div&#62;&#60;!-- .content --&#62;
+	&#60;/div&#62;&#60;!-- .column .three --&#62;
+	&#60;div class=&#34;column three&#34;&#62;
+		&#60;div class=&#34;content&#34;&#62;
+			&#60;h2&#62;Columns made easy&#60;/h2&#62;&#60;p&#62;That&#39;s why we made our column snippets. We started with 2 columns, then 3, then 4... But there was no escaping the code one would need to work with.&#60;/p&#62;
+		&#60;/div&#62;&#60;!-- .content --&#62;
+	&#60;/div&#62;&#60;!-- .column .three --&#62;
+	&#60;div class=&#34;column three&#34;&#62;
+		&#60;div class=&#34;content&#34;&#62;
+			&#60;h2&#62;The variable solution&#60;/h2&#62;&#60;p&#62;So we made some javascript that cleaned up the process. You only need expose yourself to 5 lines of code to get up to 5 beautifully formatted columns.&#60;/p&#62;
+		&#60;/div&#62;&#60;!-- .content --&#62;
+	&#60;/div&#62;&#60;!-- .column .three --&#62;
+&#60;/div&#62;&#60;!-- #myExtraContent --&#62;</content>
+</snippet>

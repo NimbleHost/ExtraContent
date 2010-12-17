@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>ExtraContent Sample - 5 columns</title>
+	<content type="html">&#60;div id=&#34;myExtraContent1&#34;&#62;
+	&#60;div class=&#34;column five&#34;&#62;
+		&#60;div class=&#34;content&#34;&#62;
+			&#60;h2&#62;Column 1&#60;/h2&#62;&#60;p&#62;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin venenatis risus dictum mi. Etiam ullamcorper. Mauris justo. Fusce nibh quam, imperdiet at, nonummy.&#60;/p&#62;
+		&#60;/div&#62;&#60;!-- .content --&#62;
+	&#60;/div&#62;&#60;!-- .column .five --&#62;
+	&#60;div class=&#34;column five&#34;&#62;
+		&#60;div class=&#34;content&#34;&#62;
+			&#60;h2&#62;Column 2&#60;/h2&#62;&#60;p&#62;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin venenatis risus dictum mi. Etiam ullamcorper. Mauris justo. Fusce nibh quam, imperdiet at, nonummy.&#60;/p&#62;
+		&#60;/div&#62;&#60;!-- .content --&#62;
+	&#60;/div&#62;&#60;!-- .column .five --&#62;
+	&#60;div class=&#34;column five&#34;&#62;
+		&#60;div class=&#34;content&#34;&#62;
+			&#60;h2&#62;Column 3&#60;/h2&#62;&#60;p&#62;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin venenatis risus dictum mi. Etiam ullamcorper. Mauris justo. Fusce nibh quam, imperdiet at, nonummy.&#60;/p&#62;
+		&#60;/div&#62;&#60;!-- .content --&#62;
+	&#60;/div&#62;&#60;!-- .column .five --&#62;
+	&#60;div class=&#34;column five&#34;&#62;
+		&#60;div class=&#34;content&#34;&#62;
+			&#60;h2&#62;Column 4&#60;/h2&#62;&#60;p&#62;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin venenatis risus dictum mi. Etiam ullamcorper. Mauris justo. Fusce nibh quam, imperdiet at, nonummy.&#60;/p&#62;
+		&#60;/div&#62;&#60;!-- .content --&#62;
+	&#60;/div&#62;&#60;!-- .column .five --&#62;
+	&#60;div class=&#34;column five&#34;&#62;
+		&#60;div class=&#34;content&#34;&#62;
+			&#60;h2&#62;Column 5&#60;/h2&#62;&#60;p&#62;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin venenatis risus dictum mi. Etiam ullamcorper. Mauris justo. Fusce nibh quam, imperdiet at, nonummy.&#60;/p&#62;
+		&#60;/div&#62;&#60;!-- .content --&#62;
+	&#60;/div&#62;&#60;!-- .column .five --&#62;
+&#60;/div&#62;&#60;!-- #myExtraContent --&#62;</content>
+</snippet>

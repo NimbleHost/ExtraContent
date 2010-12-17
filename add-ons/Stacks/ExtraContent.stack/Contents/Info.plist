@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleGetInfoString</key>
+	<string>ExtraContent r0.2</string>
+	<key>CFBundleIdentifier</key>
+	<string>extracontent</string>
+	<key>title</key>
+	<string>ExtraContent</string>
+	<key>New item</key>
+	<dict/>
+	<key>customItems</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>eca</string>
+			<key>title</key>
+			<string>ExtraContent #</string>
+			<key>type</key>
+			<string>input</string>
+			<key>default</key>
+			<string>1</string>
+		</dict>
+	</array>
+	<key>imageCrop</key>
+	<string>1</string>
+	<key>libraryImageFile</key>
+	<string>ExtraContent.icns</string>
+	<key>templateFile</key>
+	<string>template.html</string>
+</dict>
+</plist>

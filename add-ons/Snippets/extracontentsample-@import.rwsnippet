@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>ExtraContent Sample - @import</title>
+	<content type="html">&#60;div id=&#34;myExtraContent1&#34;&#62;@import((Your Page Name))&#60;/div&#62;&#60;!-- #myExtraContent --&#62;</content>
+</snippet>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>ExtraContent Sample - plain text</title>
+	<content type="html">&#60;div id=&#34;myExtraContent1&#34;&#62;
+
+ExtraContent Sample
+This is a smaple of ExtraContent being used with no HTML code. You can highlight and apply formating to this text just as you would any other text in a Styled Text page style. You can bold this text or italicize this text, or make it bigger, or smaller. There is no limit. You can even highlight the words &#34;ExtraContent Sample&#34; that lead this paragraph and turn them into a header! 
+
+&#60;/div&#62;&#60;!-- #myExtraContent --&#62;</content>
+</snippet>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Extra Content</title>
+	<content type="html">&#60;div id=&#34;myExtraContent1&#34;&#62;
+
+Add you content here and it will appear... there! Provided you are using a theme that has ExtraContent enabled of course.
+
+Tip:
+1. Check to see how many extra content area your theme supports. For each support instance, you&#39;ll need to change the trailing number in the id to suit. For example, &#34;myExtraContent1&#34;, &#34;myExtraContent2&#34;, &#34;myExtraContent3&#34;, and so on...
+
+2. If using ExtraContent in a styled text area, be sure to highlight from &#34;≤div id=&#34;myExtraConten...&#34; to the beging of your own content, then mark it as &#34;Ignore Formatting&#34; (RW Menu » Format » Ignore Formatting). Repeat the process from the end of your content until the end of &#34;...#myExtraContent --≥&#34;
+
+&#60;/div&#62;&#60;!-- #myExtraContent --&#62;</content>
+</snippet>

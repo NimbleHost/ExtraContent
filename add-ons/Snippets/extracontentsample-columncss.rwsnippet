@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>ExtraContent Sample - column CSS</title>
+	<content type="html">/*
+add this CSS to:
+RapidWeaver &#62; View &#62; Show Page Inspector &#62; Header &#62; CSS
+*/
+
+.column { float: left; }
+.one { width: 100%; }
+.two { width: 50%; }
+.three { width: 33%; }
+.four { width: 25%; }
+.five { width: 20%; }
+.two3rds { width: 66%; }
+.three4ths { width: 75%; }
+.four5ths { width: 80%; }
+.column .content { width: 90% ! important; margin: 0 auto; padding: 0 ! important; float: none ! important;}</content>
+</snippet>
