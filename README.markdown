@@ -10,7 +10,9 @@ ExtraContent was the solution agreed upon by these developers as an easy means o
 ## Contents ##
 
 * extracontent.js - native javascript version that runs free of jQuery
+* extracontent.min.js - a minified version of above
 * extracontent.jq.js - runs with the assistance of jQuery
+* extracontent.min.jq.js - a minified version of above
 * demo.html - shows ExtraContent in action
 * add-ons
 	* Snippets
