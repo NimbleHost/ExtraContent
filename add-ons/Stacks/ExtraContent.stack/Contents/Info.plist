@@ -2,12 +2,30 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CFBundleGetInfoString</key>
-	<string>ExtraContent r0.2</string>
-	<key>CFBundleIdentifier</key>
-	<string>extracontent</string>
+	<key>group</key>
+	<string>Content</string>
 	<key>title</key>
 	<string>ExtraContent</string>
+	<key>subtitle</key>
+	<string>For ExtraContent enabled themes.</string>
+	<key>CFBundleIdentifier</key>
+	<string>info.extracontent.extracontent</string>
+	<key>helpURL</key>
+	<string>http://groups.google.ca/group/extracontent</string>
+	<key>infoURL</key>
+	<string>http://extracontent.info</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.3</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.3</string>
+	<key>templateFile</key>
+	<string>template.html</string>
+	<key>icon</key>
+	<string>icon</string>
+	<key>libraryImageFile</key>
+	<string>icon.icns</string>
+	<key>imageCrop</key>
+	<string>1</string>
 	<key>New item</key>
 	<dict/>
 	<key>customItems</key>
@@ -23,11 +41,5 @@
 			<string>1</string>
 		</dict>
 	</array>
-	<key>imageCrop</key>
-	<string>1</string>
-	<key>libraryImageFile</key>
-	<string>ExtraContent.icns</string>
-	<key>templateFile</key>
-	<string>template.html</string>
 </dict>
 </plist>
