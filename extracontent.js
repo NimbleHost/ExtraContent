@@ -32,8 +32,6 @@ DomReady.ready(function() {
 					thisScript.parentNode.removeChild(thisScript);
 				};
 				ecContainer.appendChild(ecContent);
-			}else{
-				break;
 			}
 		}
 		return ecValue;
