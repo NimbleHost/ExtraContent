@@ -33,13 +33,13 @@ ehthumbs.db
 Icon?
 Thumbs.db
 
-# TextMate Project #
-####################
-*.tmproj
-
 # shell script #
 ################
 *.command
+
+# ScreenFlow #
+################
+*.screenflow
 
 # helper files #
 ################

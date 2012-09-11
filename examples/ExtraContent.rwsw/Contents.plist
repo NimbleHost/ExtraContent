@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string>RapidWeaver</string>
+	<key>Minimum Application Version</key>
+	<string>5.0b1</string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>PublishingManifest</key>
+				<dict/>
+				<key>Site Resources</key>
+				<data>
+				YnBsaXN0MDDUAQIDBAUIVVZUJHRvcFgkb2JqZWN0c1gk
+				dmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABrxAQCQoR
+				HSAnLDA0ODxASEtPU1UkbnVsbNILDA0OViRjbGFzc1pO
+				Uy5vYmplY3RzgA+iDxCAAoAL1hITCxQVFhcYGRobHFhQ
+				YWdlIE1hcFlSZXNvdXJjZXNYUGF0aCBNYXBeSWRlbnRp
+				ZmllciBNYXBYTm9kZSBNYXCACIADgAqACYAFgAfSCwwe
+				H4AEoNIhIiMkWCRjbGFzc2VzWiRjbGFzc25hbWWjJCUm
+				XE5TTXV0YWJsZVNldFVOU1NldFhOU09iamVjdNMMCygp
+				KitXTlMua2V5c6CABqDSISItLqMuLyZfEBNOU011dGFi
+				bGVEaWN0aW9uYXJ5XE5TRGljdGlvbmFyedMMCygxKjOg
+				gAag0wwLKDUqN6CABqDTDAsoOSo7oIAGoNIhIj0/oj4m
+				XxASUldSZXNvdXJjZURhdGFiYXNlXxASUldSZXNvdXJj
+				ZURhdGFiYXNl1EFCQwtERURHVlBhcmVudFhDaGlsZHJl
+				bl8QElJlcHJlc2VudGVkIE9iamVjdIAAgAyAAIAO0gsM
+				SUqADaDSISJMTaNNTiZeTlNNdXRhYmxlQXJyYXlXTlNB
+				cnJhedIhIlBSolEmXxAQUldTb3VyY2VMaXN0Tm9kZV8Q
+				EFJXU291cmNlTGlzdE5vZGXSISJUTqJOJhIAAYagXxAP
+				TlNLZXllZEFyY2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8
+				AE8AVQBaAGEAbABuAHEAcwB1AIIAiwCVAJ4ArQC2ALgA
+				ugC8AL4AwADCAMcAyQDKAM8A2ADjAOcA9AD6AQMBCgES
+				ARMBFQEWARsBHwE1AUIBSQFKAUwBTQFUAVUBVwFYAV8B
+				YAFiAWMBaAFrAYABlQGeAaUBrgHDAcUBxwHJAcsB0AHS
+				AdMB2AHcAesB8wH4AfsCDgIhAiYCKQIuAAAAAAAAAgEA
+				AAAAAAAAVwAAAAAAAAAAAAAAAAAAAkA=
+				</data>
+				<key>SiteAttributes</key>
+				<dict>
+					<key>AddCopyrightMailTo</key>
+					<true/>
+					<key>ConsolidateCommonFilesMode</key>
+					<integer>0</integer>
+					<key>ContactText</key>
+					<string>Contact Me</string>
+					<key>CopyrightText</key>
+					<string>© 2012 Adam Merrifield</string>
+					<key>CopyrightTextUsed</key>
+					<true/>
+					<key>CruftlessLinksEnabled</key>
+					<false/>
+					<key>DirectoryIndexFilenames</key>
+					<array>
+						<string>index.htm</string>
+						<string>index.html</string>
+						<string>index.php</string>
+					</array>
+					<key>EmailAddress</key>
+					<string>macagp@gmail.com</string>
+					<key>FavIconUsed</key>
+					<false/>
+					<key>LogoUsed</key>
+					<false/>
+					<key>ObfuscateEmailAddress</key>
+					<true/>
+					<key>PreviewAfterExportRelativeToBaseURL</key>
+					<false/>
+					<key>ProcessPHP</key>
+					<false/>
+					<key>PublishingSettingsConfigured</key>
+					<false/>
+					<key>ShowBreadcrumbTrail</key>
+					<false/>
+					<key>ShowTidiedCode</key>
+					<false/>
+					<key>SloganText</key>
+					<string>Changing the world, one site at a time…</string>
+					<key>SloganUsed</key>
+					<true/>
+					<key>ThemeName</key>
+					<string>seydesign Nuvem</string>
+					<key>TitleText</key>
+					<string>My Website</string>
+					<key>TitleTextUsed</key>
+					<true/>
+					<key>UUID</key>
+					<string>E6A61B89-1052-4017-846B-547A5BA9971E</string>
+					<key>WantsXMLSiteMap</key>
+					<true/>
+					<key>WebClipIconUsed</key>
+					<false/>
+					<key>putGoogleAnalyticsInHead</key>
+					<true/>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>README.txt</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array>
+				<string>DefaultPageAttributes</string>
+				<string>Pages</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>RapidWeaver Document</string>
+</dict>
+</plist>
